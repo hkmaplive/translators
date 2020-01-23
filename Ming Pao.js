@@ -2,7 +2,7 @@
 	"translatorID": "0ecfd261-ac35-4a21-bbc3-bdd25b5ef8dc",
 	"label": "Ming Pao",
 	"creator": "HKmap.live",
-	"target": "^https?://.*?\\.appledaily\\.com/",
+	"target": "^https?://.*?\\.mingpao\\.com/",
 	"minVersion": "3.0",
 	"maxVersion": "",
 	"priority": 100,
